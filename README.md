@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramson209
 - 👀 I’m interested in Java, JavaScript and React
-- 🌱 I’m currently learning to become a Front-End Engineer
+- 🌱 Front-End Engineer  with experience of working with  HTML, CSS , React and JavaScript.
 - 💞️ I’m looking to collaborate on java project, JavaScript project and React project
 - 📫 How to reach me ramsonodoi@gmail.com,
 - https://twitter.com/RAMSONODOI/status/1484230312083267584?t=0dBJOVHrR3UT3v4Hx3pDEw&s=19
